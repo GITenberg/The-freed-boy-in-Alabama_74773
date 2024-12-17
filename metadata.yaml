@@ -1,0 +1,35 @@
+_repo: The-freed-boy-in-Alabama_74773
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mitchell, Anne M.
+    aliases:
+    - Mitchell, Anne Mary
+    - Payne, Anne Maria Mitchell
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '57637'
+    url: http://www.gutenberg.org/2009/agents/57637
+description: ''
+gutenberg_issued: '2024-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74773'
+  lccn: '2006566540'
+language: en
+pgterms:marc905: 20240915120523mitchell
+pgterms:marc906: '1869'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: $aUnited States :$bPresbyterian Board of Publication, $c1869.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sunday school literature'
+- !lcsh 'African Americans -- Education -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The freed boy in Alabama
+url: http://www.gutenberg.org/ebooks/74773
