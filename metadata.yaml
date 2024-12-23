@@ -1,5 +1,8 @@
 _repo: The-freed-boy-in-Alabama_74773
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74773-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Mitchell, Anne M.
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '57637'
     url: http://www.gutenberg.org/2009/agents/57637
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74773#The-freed-boy-in-Alabama
 gutenberg_issued: '2024-11-21'
 gutenberg_type: Text
 identifiers:
